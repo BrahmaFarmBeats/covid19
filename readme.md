@@ -13,5 +13,3 @@ Community collected, cleaned and organized COVID-19 datasets about India sourced
 - docs - Compiled html docs that is served as website. Raw files are in website folder.
 - research - any research visuals etc
 - website - [MkDocs](https://www.mkdocs.org/) files. Source files for generating the docs.
-
-
